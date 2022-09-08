@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 import com.rannael.project.client.entities.Sale;
 import com.rannael.project.client.repositories.SalesRepository;
 
-@Servicei
+@Service
 public class SalesService {
 	
 	@Autowired
